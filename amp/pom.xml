@@ -8,5 +8,6 @@
   <modules>
     <module>amp-dao</module>
     <module>amp-service</module>
+    <module>amp-commons</module>
   </modules>
 </project>
