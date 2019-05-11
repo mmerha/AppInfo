@@ -23,6 +23,12 @@
   </properties>
 
   <dependencies>
+  	<!--注入业务层依赖关系  -->	
+  	<dependency>
+  		<groupId>cn.wm</groupId>
+  		<artifactId>amp-service</artifactId>
+  		<version>${version}</version>
+  	</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
