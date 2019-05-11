@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>amp-dao</module>
+    <module>amp-service</module>
   </modules>
 </project>
